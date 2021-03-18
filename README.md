@@ -25,13 +25,11 @@
 
 #                                                                   *BIO* 
 
-        |🔰|sou estudante de programação
+        |🔰|sou estudante de música
 
         |🔰|tenho 16 anos
 
-        |🔰|sou meio sociopata
-
-        |🔰|nao sou de muitas amizades mais se quiser so chamar no discord 
+        |🔰|nao sou de muitas amizades mas se quiser so chamar no discord 
 
         |🔰|trabalho com minha família 
 
