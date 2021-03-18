@@ -34,7 +34,7 @@
       - 🍃 vários projetos na mente!
 
      
-     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+     
  
 </details>
 
@@ -62,12 +62,12 @@
 <details>
   <summary> 🔬 Server </summary>
   
-  <p align="center"> <img src=https://cdn.discordapp.com/icons/693888384262995980/a_d55e32c006e04bc97f2ba84b2e8b506f.gif?size=2048" height="200px" width="200px"/>
+  <p align="center"> <img src=https://cdn.discordapp.com/attachments/818672780655722567/822227642446905364/desconhecido.gif?size=2048" height="200px" width="200px"/>
   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://discord.gg/bdf" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRE PRA BDF-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
+<a href="https://discord.gg/xz7CEx5xdC" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRE PRA BDF-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
 </p>
   
 </details>
