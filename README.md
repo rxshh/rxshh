@@ -26,7 +26,7 @@
 ---
  
  <details>
-  <summary> 🍵 History </summary>
+  <summary> 🚧 bio </summary>
   
       - 🌙 sou um beat maker
       - ☄️ tem 17 anos
@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary> 🌍 Social Media </summary>
+  <summary> 🎸 redes sociais </summary>
 
 [![Twitter Badge](https://img.shields.io/badge/-@Rxshh47-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/rxshh47)](https://twitter.com/Rxshh47) [![Gmail Badge](https://img.shields.io/badge/rashh-ffffff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:4lxxxxcyber@gmail.com)](mailto:rxshh47@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
 
@@ -51,7 +51,7 @@
 </details>
 
 <details>
-  <summary> 🍸 Projects </summary>
+  <summary> 🖥️ Projetos </summary>
 
 | Projetos | Tags |
 | --- | --- |
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary> 🔬 Server </summary>
+  <summary> 📨 Server </summary>
   
   <p align="center"> <img src=https://cdn.discordapp.com/attachments/818672780655722567/822227642446905364/desconhecido.gif?size=2048" height="200px" width="200px"/>
   
