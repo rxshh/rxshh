@@ -42,7 +42,7 @@
 <details>
   <summary> 🌍 Social Media </summary>
 
-[![Twitter Badge](https://img.shields.io/badge/-@none-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/rxshh47)](https://twitter.com/?) [![Gmail Badge](https://img.shields.io/badge/rashh-ffffff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:4lxxxxcyber@gmail.com)](mailto:rxshh47@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
+[![Twitter Badge](https://img.shields.io/badge/-@Rxshh47-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/rxshh47)](https://twitter.com/Rxshh47) [![Gmail Badge](https://img.shields.io/badge/rashh-ffffff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:4lxxxxcyber@gmail.com)](mailto:rxshh47@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
 
 
 ```📋 > Rxshh#2260```
