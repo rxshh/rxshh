@@ -19,7 +19,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784794074531364894/785040894578786304/e605bff4647a133f17044335c7fbdd02.gif" />
 
-<p align="center">Olá, sou Rashh. Sou mineiro. Fui morar no Chile, mas estou de volta ao Brasil e estou morando novamente em Minas Gerais, tenho 16 anos e sou um grande fã de programação e estou estudando sobre. </p>
+<p align="center">Olá, sou Rashh. Sou mineiro. Fui morar no Chile, mas estou de volta ao Brasil e estou morando novamente em Minas Gerais, tenho 16 anos e sou um grande fã de música e estou estudando sobre. </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashh&color=060606" alt="rashh" /> </p>
 
@@ -45,7 +45,7 @@
 
 #
 
-<img align="left" alt="GIF" src="https://cdn.discordapp.com/attachments/794213378583166977/795773640867840040/b9c38c0086b0cf54682e952bc4c269e6.gif" height="400" width="800" />
+<img align="left" alt="GIF" src="https://github.com/rxshh/rxshh/blob/main/0ce9d222a4ac14ac1ea08ba70defb376.gif" height="400" width="800" />
 
 <p align="center"> Não há céu ou inferno esperando por nós, porque nós mesmos fazemos nosso céu e inferno, nosso destino já está definido, só vivemos um dia de cada vez.  </p>
 
