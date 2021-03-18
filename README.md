@@ -23,15 +23,55 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rashh&color=060606" alt="rashh" /> </p>
 
-#                                                                   *BIO* 
+---
+ 
+ <details>
+  <summary> 🍵 History </summary>
+  
+      - 📚 I am a student in Programming and music, (not to mention my own school)
+      - 🌳 I'm 14 years old.
+      - 🧪 I always try to know more!
+      - 📁 I accept new friendships.
+      - 👨🏻‍💻 Look at some of my projects!
 
-        |🔰|sou estudante de música
+     
+     "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
+ 
+</details>
 
-        |🔰|tenho 16 anos
+<details>
+  <summary> 🌍 Social Media </summary>
 
-        |🔰|nao sou de muitas amizades mas se quiser so chamar no discord 
+[![Twitter Badge](https://img.shields.io/badge/-@none-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/?)](https://twitter.com/?) [![Gmail Badge](https://img.shields.io/badge/rashh-ffffff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:4lxxxxcyber@gmail.com)](mailto:rxshh47@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
 
-        |🔰|trabalho com minha família 
+
+```📋 > Rxshh#2260```
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
+
+</details>
+
+<details>
+  <summary> 🍸 Projects </summary>
+
+| Projetos | Tags |
+| --- | --- |
+| [**Almighty Death**](https://github.com//?) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tools.svg/1200px-Tools.svg.png" height="30px" width="30px"/>|
+
+</details>
+
+<details>
+  <summary> 🔬 Server </summary>
+  
+  <p align="center"> <img src=https://cdn.discordapp.com/icons/693888384262995980/a_d55e32c006e04bc97f2ba84b2e8b506f.gif?size=2048" height="200px" width="200px"/>
+  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<p align="center">
+<a href="https://discord.gg/bdf" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRE PRA BDF-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
+</p>
+  
+</details>
 
 
 
