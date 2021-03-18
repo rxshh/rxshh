@@ -28,11 +28,10 @@
  <details>
   <summary> 🍵 History </summary>
   
-      - 📚 I am a student in Programming and music, (not to mention my own school)
-      - 🌳 I'm 14 years old.
-      - 🧪 I always try to know more!
-      - 📁 I accept new friendships.
-      - 👨🏻‍💻 Look at some of my projects!
+      - 🌙 sou um beat maker
+      - ☄️ tem 17 anos
+      - 💫 aceito novas amizades!
+      - 🍃 vários projetos na mente!
 
      
      "Never show your wounds to anyone you don't trust. Blood attracts sharks." 💭
